@@ -43981,7 +43981,7 @@ $1(a){var s,r,q=new A.GX(),p=t.r2.a($.W.i(0,$.Y0()))
 p=new A.o2(p==null?null:p.gEa(),q)
 p.AK(q,t.r_)
 q=new A.YQ(new A.qW("","","","","",""))
-s=A.aFk("https://elearn.daffodilvarsity.edu.bd")
+s=A.aFk("https://secret-ocean-49799.herokuapp.com/https://elearn.daffodilvarsity.edu.bd")
 r=new A.a0b($,new A.JY(A.a([],t.lC),new A.z8(),new A.z8(),new A.z8()),$,new A.a01(),!1)
 r.Fp$=s
 r.QM$=new A.Zj(A.a([],t.BQ))
